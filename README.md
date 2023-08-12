@@ -23,11 +23,13 @@ The py-stocktracker project is aimed at providing users with tools to retrieve, 
 
 ## Usage
 
-To use this project, you can follow these steps:
+# To run the fiis.py script:
 
-1. Clone or download this repository to your local machine.
+```python main.py fiis```
 
-2. Install any required dependencies by running:  
+```python main.py stocks```
+
+```python main.py fiagro```
 
 ## Stocks:
 Stocks, also known as shares or equities, represent ownership in a company. When you own a stock in a company, you become a shareholder and have a claim to a portion of the company's assets and profits. The value of stocks can fluctuate based on market conditions, company performance, economic factors, and investor sentiment. Investors buy and sell stocks on stock exchanges like B3, aiming to profit from price movements or to gain a stake in the company's growth.
