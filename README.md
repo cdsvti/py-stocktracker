@@ -21,10 +21,6 @@ The py-stocktracker project is aimed at providing users with tools to retrieve, 
 - `fiagro.py`: FIAGROS - Agribusiness investment.
 
 
-## Disclaimer
-
-It's important to emphasize that py-stocktracker is not a substitute for professional financial advice. The analysis and information provided by this project should not be considered as recommendations for making investment decisions. The stock market involves inherent risks and uncertainties that can lead to significant financial losses. Always conduct thorough research and consider consulting with a qualified financial advisor before making any investment choices.
-
 ## Usage
 
 To use this project, you can follow these steps:
